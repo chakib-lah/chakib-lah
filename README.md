@@ -6,6 +6,9 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
 - 📫 How to reach me:
     * https://www.linkedin.com/in/chakiblahnaki/
     * chakib.lahnaki@gmail.com
+ 
+
+### ⚡ Technologies
 <!--
 **chakib-lah/chakib-lah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
