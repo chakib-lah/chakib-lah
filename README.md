@@ -3,7 +3,7 @@
 I'm Full stack developer multi-skilled on different technologies PHP, Symfony, Angular, React, Rest API, Docker.
 
 - 🔭 I’m currently working on web application and microservices technologies.
-- 📫 How to reach me: 
+- 📫 How to reach me:
       * https://www.linkedin.com/in/chakiblahnaki/
       * chakib.lahnaki@gmail.com
 <!--
