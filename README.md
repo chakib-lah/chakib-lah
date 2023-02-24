@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Full stack developer multi-skilled on different technologies PHP, Symfony, Angular, React, Rest API, Docker
+
 <!--
 **chakib-lah/chakib-lah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
