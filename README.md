@@ -9,6 +9,7 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
  
 
 ### ⚡ Technologies
+Php  Spring  JS  TypeScript  HTML  CSS  Git  Jenkins  Docker  CI/CD  Jira  Linux  Node.js  Angular  VueJs 
 <!--
 **chakib-lah/chakib-lah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
