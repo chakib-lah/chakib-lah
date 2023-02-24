@@ -4,7 +4,7 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
 
 - 🔭 I’m currently working on web application and microservices technologies.
 - 📫 How to reach me:
-    * Linkedin [Chakib LAHNAKI] (https://www.linkedin.com/in/chakiblahnaki/)
+    * Linkedin [Chakib LAHNAKI](https://www.linkedin.com/in/chakiblahnaki/)
     * Gamil: chakib.lahnaki@gmail.com
  
 
