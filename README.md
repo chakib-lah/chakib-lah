@@ -9,7 +9,7 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
  
 
 ### ⚡ Technologies
-[https://camo.githubusercontent.com/823b89af7f90829696f435f8c3c027503b1ec93ae934b1d34c89d98b04d1fa55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3030303f266c6f676f3d504850267374796c653d666c61742d737175617265]  Spring  JS  TypeScript  HTML  CSS  Git  Jenkins  Docker  CI/CD  Jira  Linux  Node.js  Angular  VueJs 
+![This is an image](https://camo.githubusercontent.com/823b89af7f90829696f435f8c3c027503b1ec93ae934b1d34c89d98b04d1fa55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3030303f266c6f676f3d504850267374796c653d666c61742d737175617265)  Spring  JS  TypeScript  HTML  CSS  Git  Jenkins  Docker  CI/CD  Jira  Linux  Node.js  Angular  VueJs 
 <!--
 **chakib-lah/chakib-lah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
