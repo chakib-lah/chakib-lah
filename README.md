@@ -4,13 +4,27 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
 
 - 🔭 I’m currently working on web application and microservices technologies.
 - 📫 How to reach me:
-    * Linkedin [Chakib LAHNAKI](https://www.linkedin.com/in/chakiblahnaki/)
+    * Linkedin: [Chakib LAHNAKI](https://www.linkedin.com/in/chakiblahnaki/)
     * Gamil: chakib.lahnaki@gmail.com
  
 
 ### ⚡ Technologies
------------------------------------------------------------------------------------------------------------------------
-![This is an image](https://camo.githubusercontent.com/823b89af7f90829696f435f8c3c027503b1ec93ae934b1d34c89d98b04d1fa55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3030303f266c6f676f3d504850267374796c653d666c61742d737175617265)  ![This is an image](https://camo.githubusercontent.com/9f9edd9de0d04aa0f0b62440e6a9e957eb5e5f4e32828bcbacd3fdae3b3750a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f6c6f676f3d4a617661536372697074267374796c653d666c61742d737175617265)  ![This is an image](https://camo.githubusercontent.com/5defbeadcc6b82314bed4518f477c65777236a90b8189988d6db9a85772a2bc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074266c6f676f436f6c6f723d303037414343267374796c653d666c61742d737175617265)  ![This is an image](https://camo.githubusercontent.com/2e594230b5f3808051702cef2a2580a5598fe747dbfaaa0bc3e0f84a587ec5f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3030303f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35)  ![This is an image](https://camo.githubusercontent.com/ec78849b894398f3a104551efa67b7cc70a24d4f38afbb6cb67a386aedece418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)  ![This is an image](https://camo.githubusercontent.com/f1fab749ee7dd360a5607340a9b5370bcc86e0bc8660c742de7fdfb82a0d3bf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f7374796c653d666c61742d737175617265266c6f676f3d676974) ![This is an image](https://camo.githubusercontent.com/794151e09086b8d88ba4371c61ded4e81b1fda76aa420ee81429629d4b5167ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d3030303f6c6f676f3d416e67756c6172266c6f676f436f6c6f723d666630303030267374796c653d666c61742d737175617265) ![This is an image](https://camo.githubusercontent.com/d63709a3862f2eef224b75721d03af288cb828d2b9e444de4becf3766fb46a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3030303f6c6f676f3d446f636b6572267374796c653d666c61742d737175617265)
+![Php](https://img.shields.io/badge/-PHP-000?&logo=PHP&style=flat-square)&nbsp;
+![Spring](https://img.shields.io/badge/-SpringBoot-000?logo=Spring&style=flat-square)&nbsp;
+![JS](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=flat-square)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC&style=flat-square)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat-square&logo=Jenkins&logoColor=fff)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker&style=flat-square)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?logo=CircleCI&style=flat-square)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC&style=flat-square)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux&logoColor=FCC624&style=flat-square)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&style=flat-square)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular&logoColor=ff0000&style=flat-square)&nbsp;
+![VueJs](https://img.shields.io/badge/Vue.js-000?style=flat-squar&logo=vue.js&logoColor=4FC08D)&nbsp;
+
 <!--
 **chakib-lah/chakib-lah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
