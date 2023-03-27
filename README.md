@@ -3,9 +3,6 @@
 I'm Full stack developer multi-skilled on different technologies PHP, Symfony, Angular, React, Rest API, Docker.
 
 - 🔭 I’m currently working on web application and microservices technologies.
-- 📫 How to reach me:
-    * Linkedin: [Chakib LAHNAKI](https://www.linkedin.com/in/chakiblahnaki/)
-    * Gamil: chakib.lahnaki@gmail.com
  
 ## 🛠️ Skills
 
@@ -38,7 +35,7 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
 
 ## 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chakiblahnaki/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chakib.lahnaki@gmail.com)
 
 
 
