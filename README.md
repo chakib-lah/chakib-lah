@@ -36,6 +36,11 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC&style=flat-square)&nbsp;
 
+## 🔗 Links
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chakiblahnaki/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
+
+
 
 
 
