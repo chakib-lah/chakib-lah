@@ -15,13 +15,13 @@ I'm Full stack developer multi-skilled on different technologies PHP, Symfony, A
 ![Php](https://img.shields.io/badge/-PHP-000?&logo=PHP&style=flat-square)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=flat-square)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC&style=flat-square)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### Front-End Development
 
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular&logoColor=ff0000&style=flat-square)&nbsp;
 ![React](https://img.shields.io/badge/-REACT-000?&logo=REACT&style=flat-square)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### Back-End Development
 
